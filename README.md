@@ -1,4 +1,4 @@
 israa-portofolio
 ================
 
-My personal portfolio using Ruby on Rail, AngularJS and Bootstrap 
+My personal portfolio built with RubyOnRails, AngularJS and Bootstrap 
